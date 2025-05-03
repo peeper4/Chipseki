@@ -1,0 +1,25 @@
+.blockosnov{
+    height: 80px;
+    background-color: #B1464A;
+    display: flex;
+    justify-content: space-between;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    align-items: center;
+
+}
+.block{
+
+    background-color: #B1464A;
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+}
+.cartinka{
+    display: flex;
+}
+
+.cartinka2{
+    display: flex;
+    
+}
