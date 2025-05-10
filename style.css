@@ -23,6 +23,18 @@
     display: flex;
     
 }
+.Footer1{
+    margin-top: 280px;
+} 
+.Footer2{
+
+} 
+.Footer3{
+
+} 
+.Footer4{
+
+} 
 .Footer{
     width: 1440px;
     height: 459px;
@@ -31,9 +43,9 @@
     background-color: #1E2438;
 }
 .Footer_img{
-    width: 182px;
+    width: 182px;  
     height: 56px;
-    margin-top: 100px;
+    margin-top: 1%;
     margin-left: 116px;
     gap: 10px;
     
